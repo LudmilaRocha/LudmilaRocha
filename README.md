@@ -13,7 +13,6 @@ Sou entusiasta de Realidade Virtual e Inteligência Artificial e, além do mundo
 
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/ludmila030301_54035)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ludmila-rocha-silva-21694b1a9/)
 
 ### Habilidades
