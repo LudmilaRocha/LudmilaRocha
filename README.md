@@ -1,33 +1,46 @@
+# 🚀 Olá, eu sou a Ludmila!
 
-# Ludmila Rocha 
-### Engenharia de Computação | Analista de Suporte
-*Uberlândia, MG - Brasil*
+Sou graduada em **Engenharia de Computação** pela Universidade Cruzeiro do Sul e possuo formação técnica em TI pela Utramig. Atualmente, estou expandindo minhas competências através de um **MBA em Engenharia de Dados na FIAP**.
 
-Olá, sou Ludmila, tenho 23 anos, formada em Técnico em Informática e atualmente graduanda em Engenharia de Computação pela Universidade Cruzeiro do Sul.
+Como **Analista de Dados**, foco na criação e manutenção de dashboards de alto impacto, mapeamento de processos e modelagem de dados. Meu objetivo é sempre otimizar a tomada de decisão e impulsionar a performance do negócio através de insights baseados em dados.
 
-Atualmente, atuo na área de suporte a software para o setor óptico, oferecendo assistência em uma ampla gama de atividades, incluindo configuração de impressoras e impressoras fiscais, etiquetagem, configuração fiscal e integração de TEF. Também sou responsável pela elaboração de documentações de treinamento, mapeamento de processos e análise de erros.
+Tenho vasta experiência no desenvolvimento de painéis interativos, onde combino análise profunda com um olhar atento para **UI/UX design**, garantindo que as visualizações não sejam apenas precisas, mas também intuitivas e envolventes. Sou apaixonada por aprendizado contínuo e estou sempre em busca de novas certificações e projetos para afiar meu stack técnico.
 
-Minha trajetória na área de TI envolve um forte foco em funções técnicas e analíticas, trabalhando diretamente com usuários dos sistemas. Adoto uma postura de eterna aprendiz, sempre buscando novas certificações, aprimorando meus conhecimentos e desenvolvendo projetos no GitHub.
+---
 
-Sou entusiasta de Realidade Virtual e Inteligência Artificial e, além do mundo da tecnologia, aprecio profundamente a arte, a literatura e os games.
+### 🛠️ Tech Stack & Ferramentas
 
-### Conecte-se comigo
+**Engenharia & Análise de Dados**
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=databricks&logoColor=30A3DC)
+![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ludmila-rocha-silva-21694b1a9/)
-
-### Habilidades
-
+**Desenvolvimento & Versionamento**
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=823085)
-![CSS](https://img.shields.io/badge/css3-192436?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
 
-### GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LudmilaRocha&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LudmilaRocha&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### 🌌 Além dos Dados
+* **Entusiasta:** Inteligência Artificial e Realidade Virtual.
+* **Hobbies:** Encontro meu equilíbrio na arte, literatura e games. 🎮📚🎨
+* **Pessoal:** Mãe da Lilith! 🐱
 
+---
 
+### 📊 Estatísticas do GitHub
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LudmilaRocha&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudmilaRocha&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" height="170em" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ludmila-rocha-silva-21694b1a9/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:ludmila030301@gmail.com)
